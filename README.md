@@ -1,6 +1,6 @@
 # social-logins-template
 
-Your .env file would look like this:
+Create a .env file at the top level of your repo and fill this stuff out, .env has already been added to .gitignore.
 
 ```
 FACEBOOK_CLIENT_ID='your-clientID-here'
